@@ -4,4 +4,4 @@ I-DLV is intended as the new intelligent grounder of the logic-based Artificial 
  * _Download_: the latest available version is available from the [I-DLV Release page](https://github.com/DeMaCS-UNICAL/I-DLV/releases).
  * _Further information_: please visit the [I-DLV Wiki](https://github.com/DeMaCS-UNICAL/I-DLV/wiki).
 
-For further information and bug report, please write to i-dlv@googlegroups.com. 
+For additional details and bug report, please write to i-dlv@googlegroups.com. 
