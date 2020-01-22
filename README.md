@@ -7,7 +7,8 @@ I-DLV is intended as the new intelligent grounder of the logic-based Artificial 
 I-DLV is free for academic and non-commerical educational use, as well as for use by non-profit organisations. 
 For additional details and bug report, please write to i-dlv@googlegroups.com. 
 
-Citation:
+# Citation
 
-Francesco Calimeri, Davide Fuscà, Simona Perri, Jessica Zangari: I-DLV: The new intelligent grounder of DLV. Intelligenza Artificiale 11(1): 5-20 (2017)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/quote-16-433627.png" alt="    https://dblp.org/rec/conf/aiia/CalimeriFPZ16" width="13" height="13" />](https://dblp.org/rec/conf/aiia/CalimeriFPZ16) [Francesco Calimeri, Davide Fuscà, Simona Perri, Jessica Zangari: I-DLV: The New Intelligent Grounder of dlv. AI*IA 2016: 192-207](https://dblp.org/rec/conf/aiia/CalimeriFPZ16)
 
+[<img src="https://cdn.iconscout.com/icon/free/png-256/quote-16-433627.png" alt="https://dblp.org/rec/html/journals/ia/CalimeriFPZ17" width="13" height="13" />](https://dblp.org/rec/html/journals/ia/CalimeriFPZ17) [Francesco Calimeri, Davide Fuscà, Simona Perri, Jessica Zangari: I-DLV: The new intelligent grounder of DLV. Intelligenza Artificiale 11(1): 5-20 (2017)](https://dblp.org/rec/html/journals/ia/CalimeriFPZ17)
