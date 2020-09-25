@@ -31,7 +31,7 @@ By typing:
 an _I-DLV_ executable file will be generated in the _build/release_ folder.
 -->
 
-# Usage
+# Usage as ASP grounder
 
 _I-DLV_ can interoperate with the state-of-the-art solvers [_wasp_](https://github.com/alviano/wasp) and [_clasp_](https://sourceforge.net/projects/potassco/files/clasp/). Indeed, by default _I-DLV_ output is produced in a numeric format compliant with the mentioned solvers. 
 
@@ -42,6 +42,18 @@ In order to interoperate with a solver type:
 In order to obtain the ground program in textual format type:
  
     ./idlv --t [filename [filename [...]]]
+    
+# Usage as Datalog reasoner 
+
+I-DLV can be also adopted as Datalog reasoner. Indeed, the system when fed with a disjunction-free and stratified under negation program is able to fully evaluate it and compute its perfect model. 
+
+To this end, one can type:
+
+    ./idlv --t [filename [filename [...]]] 
+    
+In case a query is provided, _I-DLV_ automatically enables the Magic Sets technique; in order to obtain only the query answers as output type: 
+
+    ./idlv --query [filename [filename [...]]]
     
 # Guide
   
