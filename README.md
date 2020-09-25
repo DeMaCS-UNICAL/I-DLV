@@ -1,6 +1,7 @@
 # I-DLV : the new Intelligent Grounder of DLV
 
 _I-DLV_ is a full-fleged Answer Set Programming and Datalog reasoner. It supports the [ASP-Core-2](https://www.mat.unical.it/aspcomp2013/files/ASP-CORE-2.03c.pdf) standard language; nevertheless, the system supports additional linguistic extensions such as list terms and external atoms. _I-DLV_ is also a full-fledged deductive database system, supporting query answering powered by the Magic Sets technique.
+
 _I-DLV_ has also been integrated as the grounding module of the completely renewed second version of the logic-based Artificial Intelligence system [DLV](http://www.dlvsystem.com).
 
 I-DLV is free for academic and non-commerical educational use, as well as for use by non-profit organisations. 
@@ -44,7 +45,7 @@ In order to obtain the ground program in textual format type:
     
 # Guide
   
- For a detailed description of _I-DLV_ capabilities please visit the [official guide](https://github.com/DeMaCS-UNICAL/I-DLV/wiki).
+For a detailed description of _I-DLV_ capabilities please visit the [official guide](https://github.com/DeMaCS-UNICAL/I-DLV/wiki).
 
 # Core Team
 
