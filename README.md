@@ -1,3 +1,8 @@
+<!-- [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/DeMaCS-UNICAL/I-DLV/master/LICENSE) ) -->
+[![GitHub release](https://img.shields.io/github/release/DeMaCS-UNICAL/I-DLV.svg)](https://github.com/DeMaCS-UNICAL/I-DLV/releases/latest)
+[![GitHub issues](https://img.shields.io/github/issues/DeMaCS-UNICAL/I-DLV.svg)](https://github.com/DeMaCS-UNICAL/I-DLV/issues)
+[![I-DLV website](https://img.shields.io/website-up-down-green-red/https/demacs-unical.github.io/I-DLV.svg?label=I-DLV-website)](https://demacs-unical.github.io/I-DLV/)
+
 # I-DLV : the new Intelligent Grounder of DLV
 
 _I-DLV_ is a full-fleged Answer Set Programming and Datalog reasoner. It supports the [ASP-Core-2](https://www.mat.unical.it/aspcomp2013/files/ASP-CORE-2.03c.pdf) standard language; nevertheless, the system supports additional linguistic extensions such as list terms and external atoms. _I-DLV_ is also a full-fledged deductive database system, supporting query answering powered by the Magic Sets technique.
