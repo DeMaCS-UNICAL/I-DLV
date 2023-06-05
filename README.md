@@ -69,9 +69,21 @@ For a detailed description of _I-DLV_ capabilities please visit the [official gu
 # Core Team
 
 * [Francesco Calimeri](https://www.mat.unical.it/calimeri) 
-* Davide Fuscà
 * Simona Perri
-* Jessica Zangari
+* [Francesco Pacenza](https://francescopacenza.it)
+* [Jessica Zangari](https://sites.google.com/view/jessica-zangari/home-page)
+
+# Members
+
+* Antonino Agostino
+* Bruno Barbara
+* Giuseppe Benvenuto
+* Davide Fuscà
+* Nicola Greco
+* Elena Mastria
+* Giovanni Melissari
+* Matteo Perfidio
+* Agostino Rizzo
 
 For additional details and bug report, please write to i-dlv@googlegroups.com. 
 
