@@ -69,8 +69,8 @@ For a detailed description of _I-DLV_ capabilities please visit the [official gu
 # Core Team
 
 * [Francesco Calimeri](https://www.mat.unical.it/calimeri) 
-* Simona Perri
 * [Francesco Pacenza](https://francescopacenza.it)
+* Simona Perri
 * [Jessica Zangari](https://sites.google.com/view/jessica-zangari/home-page)
 
 # Members
